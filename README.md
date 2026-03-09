@@ -43,3 +43,8 @@ A portfolio of three real-world automations built for Precision Manufacturing’
    ```bash
    git clone https://github.com/dougl7573/precision-manufacturing-automations.git
    cd precision-manufacturing-automations
+
+## 👤 Author
+
+Name: Doug Loud  
+GitHub: https://github.com/dougl7573   
